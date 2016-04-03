@@ -1,3 +1,3 @@
-# CS261
-Some programs from data structures course
-I'm learning git on my local machine!
+# CS290
+Some files and programs from CS290 Web Development
+
